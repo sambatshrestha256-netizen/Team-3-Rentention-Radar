@@ -42,7 +42,7 @@ naming conventions to follow. See those files before adding content.
 
 - Churn prediction model training and evaluation
 - Feature importance and business insights
-- See `Predictive_Modeling/README.md` for expected contents
+
 
 ## Project Tracking
 
