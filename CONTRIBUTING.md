@@ -22,6 +22,7 @@ cd retention-radar
 |---|---|
 | Missing values, encoding, train/test split, scaling | `Data_Preparation/` |
 | Elbow method, K-Means training, cluster plots | `Clustering_Analysis/` |
+| Churn prediction model, evaluation, feature importance | `Predictive_Modeling/` |
 
 Each folder has its own README listing exactly what's expected — check it before
 adding files so naming stays consistent.
